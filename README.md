@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @augustocrsouza
-- 👀 Sempre trabalhei com processos e atualmente estou em transição para tecnologia 
+- 💻 Sempre trabalhei com processos e atualmente estou em transição para tecnologia 
 - 🌱 Hoje faço curso Full Stack, na DevMedia e graduação em Ciência de dados
-- 🎲 Estudo cloud e backend, espero crescer na área de análise de dados
+- 🎲 Espero crescer profissionalmente na área de dados
 - ⚡ Atualmente sou bartender freelancer e tenho uma empresa de drinks para eventos
 
 <!---
