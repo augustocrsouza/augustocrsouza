@@ -1,6 +1,6 @@
 # Olá, eu sou o Cesar 👋
 
-**Estudante com o foco voltado para me tornar Engenheiro de Dados.**
+**Aspirante a Engenheiro de Dados.**
 
 Sou focado na prática e no estudo contínuo, construindo minha base técnica para entrar na área de dados. Tenho uma rotina diária de estudos e procuro aprender tudo colocando a mão na massa e errando em projetos reais.
 
